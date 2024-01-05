@@ -16,6 +16,30 @@
     position: sticky;
 }
 
+.navBaricon1 {
+    height: 60px;
+    position: absolute;
+    /* Positioned absolutely within its relative parent */
+    right: 110px;
+    /* Adjust the right position as needed */
+    top: 7.5%;
+    /* Center the image vertically */
+    transform: translateY(-50%);
+    /* Adjust for vertical centering */
+}
+
+.navBaricon2 {
+    height: 60px;
+    position: absolute;
+    /* Positioned absolutely within its relative parent */
+    right: 20px;
+    /* Adjust the right position as needed */
+    top: 7.5%;
+    /* Center the image vertically */
+    transform: translateY(-50%);
+    /* Adjust for vertical centering */
+}
+
 .body {
     background-color: black;
     margin: 0
